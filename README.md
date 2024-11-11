@@ -1,0 +1,3 @@
+TR = Bu proje, Flipkart'ta kullanıcılar tarafından bırakılan yorum ve incelemelerin duygusal tonlarını otomatik olarak analiz etmeyi amaçlayan bir modelin geliştirilmesini hedeflemektedir. Kullanıcıların ürünlerle ilgili geri bildirimlerini analiz ederek, yorumların pozitif, negatif veya nötr duygusal içerik taşıyıp taşımadığını belirlemek için doğal dil işleme teknikleri kullanılacaktır.
+
+EN = This project aims to develop a model that aims to automatically analyze the emotional tones of comments and reviews left by users on Flipkart. By analyzing user feedback on products, natural language processing techniques will be used to determine whether the comments carry positive, negative or neutral emotional content.
